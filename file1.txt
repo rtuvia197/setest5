@@ -1,2 +1,2 @@
 hello my github
-secon line updated in remote repository
+secon line updated in remote repository;the second line in file1.txt from local repository
